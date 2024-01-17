@@ -3,7 +3,7 @@
 ## download and execute
 1. clone this repository
 2. `npm install` in directory of repo
-3. `npm start` in same position
+3. `npm start` in same location
 
 ## deploy link
 https://sorikikikim.github.io/tictactoe-game/
